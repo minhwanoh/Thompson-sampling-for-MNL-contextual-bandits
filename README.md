@@ -1,1 +1,1 @@
-# thompson-sampling-for-MNL-contextual-bandit
+# Thompson-sampling-for-MNL-contextual-bandit
